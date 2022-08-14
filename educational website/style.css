@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400;500&family=Mouse+Memoirs&display=swap');
+.navbar{
+    font-family: 'DynaPuff', cursive;
+}
+.navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'DynaPuff', cursive;
+}
+
+/* Size Class of 25px */
+.Size-25{
+    font-size: 25px;
+}
+.con-1{
+    height: 80vh;
+    background: url('./img/w-1.jpg')  no-repeat;
+ 
+}
+.head-1,.head-2{
+    margin-left: 40px;
+    color: white !important;  
+    font-family: 'DynaPuff', cursive;  
+}
+.head-1:first-child{
+    margin-top: 100px;
+  
+    
+}
+.btn{
+    
+    border-radius: 5px;
+
+}
+.head-3{
+    margin-left: 350px;
+    margin-bottom: 15px;
+    margin-top: 40px;
+    font-size: 30px;
+    text-decoration: underline;
+    font-family: 'DynaPuff', cursive;
+}
+.card{
+    font-family: 'DynaPuff', cursive;
+}
+.mt-10{
+    font-family: 'DynaPuff', cursive;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+#contact{
+    box-shadow: 0px 0px 5px 5px grey;
+}
+.m-auto{
+    margin: 0 auto;    
+}
+.m-top{
+    margin-top: 30px;
+}
+.display-6{
+    text-decoration: underline;
+  
+}
+.card {
+    box-shadow: 0px 0px 5px 5px grey;
+}
+.text-reset,.fas{
+    font-family: 'DynaPuff', cursive;
+}
